@@ -2,7 +2,7 @@
 
 **Student Name:** [Swapnil gaikwad]  
 **PRN:** [125UAD1130]  
-**Class/Division:** [SY BTech-D]  
+**Class/Division:** [SY BTech AIDS-D]  
 **Course Name:** Object-Oriented Programming with C++ (ADPC303)  
 **Unit:** Unit I  
 
